@@ -48,7 +48,6 @@ def evaluate_progression():
         if failed_credits in [80, 100, 120]:
             print('Exclude\n')
             store_input_data('Exclude')
-    else:
         print('Module retriever\n' )
         store_input_data('Module retriever')
 
