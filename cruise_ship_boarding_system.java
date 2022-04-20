@@ -1,7 +1,4 @@
-
-package w1780941_arrays_only;
-
-        
+    
 import java.util.Arrays;
 import java.util.Scanner;
 import java.io.FileWriter;
@@ -13,7 +10,7 @@ import java.io.IOException;
  *
  * @author mohah
  */
-public class W1780941_Arrays_Only {
+public class cruise_ship_boarding_system {
 
     /**
      *
