@@ -1,4 +1,4 @@
-# program to evaluate the progression outcome of various students according to a specified grading criteria.
+#This is a program to evaluate the progression outcome of various students according to a specified grading criteria.
 
 #The criteria was:
 # 120 credits for passed - Progress
